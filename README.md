@@ -1,4 +1,4 @@
-<p align="center">
+<p align="middle">
   <img src="https://stickers0.githubusercontent.com/u/44036562?s=100&v=4"/> 
 </p>
 
